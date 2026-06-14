@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Japan Support Platform",
+    "slug": "japan-support-platform",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "web": { "bundler": "metro" }
+  }
+}
